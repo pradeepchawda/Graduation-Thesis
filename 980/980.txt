@@ -1,0 +1,1 @@
+Add function in clo_red, but not finished.
